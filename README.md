@@ -1,3 +1,3 @@
 <p align="center">
-  <img src="pusheen.jpg" width="200">
+  <img src="pusheen-animated-pusheen.gif" width="200">
 </p>
