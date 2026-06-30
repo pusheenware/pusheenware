@@ -1,3 +1,3 @@
 <p align="center">
-  <img src="pusheen.jpg" width="200">
+  <img src="sleepy pushee.gif" width="200">
 </p>
